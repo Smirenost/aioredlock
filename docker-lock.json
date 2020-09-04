@@ -1,0 +1,28 @@
+{
+	"dockerfiles": {},
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "redis",
+				"tag": "latest",
+				"digest": "933c6c01829165885ea8468d87f71127b1cb76a711311e6c63708097e92ee3d1",
+				"serviceName": "follower",
+				"dockerfile": ""
+			},
+			{
+				"name": "redis",
+				"tag": "latest",
+				"digest": "933c6c01829165885ea8468d87f71127b1cb76a711311e6c63708097e92ee3d1",
+				"serviceName": "leader",
+				"dockerfile": ""
+			},
+			{
+				"name": "redis",
+				"tag": "latest",
+				"digest": "933c6c01829165885ea8468d87f71127b1cb76a711311e6c63708097e92ee3d1",
+				"serviceName": "sentinel",
+				"dockerfile": ""
+			}
+		]
+	}
+}
