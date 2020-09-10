@@ -5,21 +5,21 @@
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "55ac9d0c163b92351761c9a9042246902e7d38e63cd1f3cf980c249157b4dce8",
+				"digest": "3acb5485516fb593222008e19395056bb4c9e99c14022f70012731fcf8576f11",
 				"serviceName": "follower",
 				"dockerfile": ""
 			},
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "55ac9d0c163b92351761c9a9042246902e7d38e63cd1f3cf980c249157b4dce8",
+				"digest": "3acb5485516fb593222008e19395056bb4c9e99c14022f70012731fcf8576f11",
 				"serviceName": "leader",
 				"dockerfile": ""
 			},
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "55ac9d0c163b92351761c9a9042246902e7d38e63cd1f3cf980c249157b4dce8",
+				"digest": "3acb5485516fb593222008e19395056bb4c9e99c14022f70012731fcf8576f11",
 				"serviceName": "sentinel",
 				"dockerfile": ""
 			}
