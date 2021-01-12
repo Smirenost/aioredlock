@@ -4,19 +4,19 @@
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "575f1c6f2b3171a5a702834278b8fe6f99360acb2868f81c7472c8aa602d8a06",
+				"digest": "d6355f34fed1c92f1d6055f1eca49748482b9d4cad7a91ce9e59a18d9c9247aa",
 				"service": "follower"
 			},
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "575f1c6f2b3171a5a702834278b8fe6f99360acb2868f81c7472c8aa602d8a06",
+				"digest": "d6355f34fed1c92f1d6055f1eca49748482b9d4cad7a91ce9e59a18d9c9247aa",
 				"service": "leader"
 			},
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "575f1c6f2b3171a5a702834278b8fe6f99360acb2868f81c7472c8aa602d8a06",
+				"digest": "d6355f34fed1c92f1d6055f1eca49748482b9d4cad7a91ce9e59a18d9c9247aa",
 				"service": "sentinel"
 			}
 		]
